@@ -50,3 +50,10 @@
 //         const result = mult * o;
 //     console.log(mult +" * "+ o + " = " + result);
 // }
+
+
+// for (let i = 1; i <= 8; i++) {
+//   let stars = '*'.repeat(i);
+//   console.log(stars);
+
+// }
